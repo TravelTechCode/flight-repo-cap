@@ -7,7 +7,7 @@ sap.ui.define(['sap/fe/test/TemplatePage'], function(TemplatePage) {
     };
 
     return new TemplatePage(
-        'com.anubhav.travel.anubhavflexapp::TravelMain',
+        'pri.myflexapp::TravelMain',
         CustomPageDefinitions
     );
 });
